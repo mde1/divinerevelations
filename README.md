@@ -18,9 +18,9 @@ Those who wish to contribute translation edits or footnotes, please submit a pul
 
 ## Tercer Testamento
 The file 'Tercer Testamento.xlsx' contains the teachings and text parsed from:
-tercertestamento.net
-three-revelations.net
-tres-revelaciones.net 
+* tercertestamento.net
+* three-revelations.net
+* tres-revelaciones.net 
 
 The 366 teachings from tercertestamento.net were translated using Google Translate. Three-Revelations.net already had the text available in English, I assume that it was auto-translated by Google. 
 
